@@ -4,7 +4,7 @@
 $servidor="banda.mysql.uhserver.com";
 $nome_banco="banda";
 $usuario="radiador";
-$senha="1!as12";
+$senha="q1!w2@";
 //Conectando ao servidor MySQL
 if(!($conexao= mysql_connect($servidor,$usuario,$senha)))
 {
