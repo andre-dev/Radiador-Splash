@@ -11,7 +11,8 @@ h3.text-center:hover{
 }
 #fundo{
 	background-color:rgb(231, 231, 231);
-	border-radius:10px;	
+	border-radius:10px;
+	margin-top: 10px;
 }
 #centerSHOP{
 	cursor:default;
@@ -97,4 +98,9 @@ tr{
 th{
 	font-size:8px;	
 }
+}
+/*Banda Capa*/
+.bandaCapa{
+	float: right;
+	border-radius: 2px;
 }

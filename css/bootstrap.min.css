@@ -394,6 +394,12 @@ h6, .h6 {
 	margin: 40px 0 20px;
 	border-bottom: 1px solid #eee
 }
+
+.page-header-ajuste{
+    padding-bottom: 9px;
+    margin: 40px 0 0px;
+    border-bottom: 1px solid #eee
+}
 ul, ol {
 	margin-top: 0;
 	margin-bottom: 10px
@@ -567,7 +573,8 @@ pre code {
 }
 .row {
 	margin-right: -15px;
-	margin-left: -15px
+	margin-left: -15px;
+	margin-top: -20px;
 }
 .row:before, .row:after {
 	display: table;
@@ -920,7 +927,8 @@ pre code {
 	width: 41.66666666666667%
 }
 .col-md-4 {
-	width: 33.33333333333333%
+	width: 33.33333333333333%;
+    margin-top: 10px;
 }
 .col-md-3 {
 	width: 25%
@@ -3178,7 +3186,8 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 	float: left;
 	padding: 15px 15px;
 	font-size: 18px;
-	line-height: 20px
+	line-height: 20px;
+	margin-left: 40px;
 }
 .navbar-brand:hover, .navbar-brand:focus {
 	text-decoration: none
@@ -3343,7 +3352,8 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 	border-color: #e7e7e7
 }
 .navbar-default .navbar-brand {
-	color: #777
+	color: #777;
+	margin-right: -15px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
 	color: #5e5e5e;
@@ -3353,7 +3363,8 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 	color: #777
 }
 .navbar-default .navbar-nav>li>a {
-	color: #777
+	color: #777;
+	margin-left: 60px;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
 	color: #333;
@@ -4678,6 +4689,7 @@ button.close {
 	bottom: 0;
 	left: 0;
 	width: 15%;
+	height: 85%;
 	font-size: 20px;
 	color: #fff;
 	text-align: center;
