@@ -47,11 +47,19 @@ $total_row_agenda = mysql_num_rows($sql2);
 <div class="container">
   <div class="row clearfix">
     <div class="col-md-12 column">
-      <div class="page-header"> <img alt="1140x100" src="img/logo.jpg" class="img-responsive"> 
-        <!--<h1>
-					Radiador Splash <small>O melhor no mpb na Baixada Santista.</small>
-				</h1>--> 
-      </div>
+		<div class="page-header-ajuste">
+
+			<div class="row clearfix">
+				<div class="col-md-12 column">
+					<img class="bandaCapa" alt="800x300" src="img/capaBandaLogo2.jpg" class="img-responsive">
+				</div>
+			</div>
+
+			<!-- <img alt="1140x100" src="img/logo.jpg" class="img-responsive">
+             <!--<h1>
+                 Radiador Splash <small>O melhor no mpb na Baixada Santista.</small>
+             </h1>-->
+		</div>
       <nav class="navbar navbar-default" role="navigation">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
@@ -61,7 +69,7 @@ $total_row_agenda = mysql_num_rows($sql2);
             <li><!-- class="active" --> 
               <a href="sobre.html">Sobre</a> </li>
             <li  class="active"> <a href="agenda.php">Agenda</a> </li>
-            <li> <a href="webShop.php">WebShop</a> </li>
+            <li> <a href="#">WebShop</a> </li>
             <li> <a href="multimidia.html">Multimídia</a> </li>
             <li> <a href="discografia.html">Discografia</a> </li>
             <li> <a href="contato.html">Contato</a> </li>

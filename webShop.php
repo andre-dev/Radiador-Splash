@@ -34,6 +34,8 @@
 
 <?php
 require_once('conectar.php');
+error_reporting(0);
+ini_set('display_errors',0);
 mysql_select_db($nome_banco,$conexao);
 $sql = "SELECT * FROM shop where cd_prod=1";
 $sql3 = "Select * FROM shop where cd_prod=2";
