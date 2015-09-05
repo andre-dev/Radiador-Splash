@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e061789-d2c8-4133-91a7-247838da1b43" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sobre.html" afterPath="$PROJECT_DIR$/sobre.html" />
     </list>
     <ignored path="Radiador-Splash.iws" />
@@ -39,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/sobre.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.21458626">
-              <caret line="126" column="156" selection-start-line="126" selection-start-column="156" selection-end-line="126" selection-end-column="156" />
+              <caret line="126" column="270" selection-start-line="126" selection-start-column="270" selection-end-line="126" selection-end-column="270" />
               <folding />
             </state>
           </provider>
@@ -266,7 +265,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.200625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -517,7 +516,7 @@
     <entry file="file://$PROJECT_DIR$/sobre.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21458626">
-          <caret line="126" column="156" selection-start-line="126" selection-start-column="156" selection-end-line="126" selection-end-column="156" />
+          <caret line="126" column="270" selection-start-line="126" selection-start-column="270" selection-end-line="126" selection-end-column="270" />
           <folding />
         </state>
       </provider>
