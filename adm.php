@@ -149,7 +149,7 @@ if( (!isset($_SESSION['nome'])) and (!isset($_SESSION['senha']))) {
 		<div class="col-md-12 column">
 			<div class="row clearfix">
 				<div class="col-md-12 column">
-                	<img alt="1140x100" src="img/logo.jpg" class="img-responsive">
+					<img class="bandaCapa img-responsive" alt="Foto Radiador Splash" src="img/capaBandaLogo3.jpg">
 				</div>
 			</div>
 			<h3>
