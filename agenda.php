@@ -51,7 +51,7 @@ $total_row_agenda = mysql_num_rows($sql2);
 
 			<div class="row clearfix">
 				<div class="col-md-12 column">
-					<img class="bandaCapa" alt="800x300" src="img/capaBandaLogo2.jpg" class="img-responsive">
+					<img class="bandaCapa img-responsive" alt="Foto Radiador Splash" src="img/capaBandaLogo3.jpg">
 				</div>
 			</div>
 
