@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e061789-d2c8-4133-91a7-247838da1b43" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adm.php" afterPath="$PROJECT_DIR$/adm.php" />
+      <change type="MOVED" beforePath="C:\wamp\www\Radiador-Splash\img\03_1.JPG" afterPath="$PROJECT_DIR$/img/03_1.jpg" />
+      <change type="MOVED" beforePath="C:\wamp\www\Radiador-Splash\img\04_1.JPG" afterPath="$PROJECT_DIR$/img/04_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/01_01.jpg" afterPath="$PROJECT_DIR$/img/01_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/01_1.jpg" afterPath="$PROJECT_DIR$/img/01_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/galeria/original/01_1.jpg" afterPath="$PROJECT_DIR$/img/galeria/original/01_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/02_01.jpg" afterPath="$PROJECT_DIR$/img/02_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/02_1.jpg" afterPath="$PROJECT_DIR$/img/02_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/galeria/original/02_1.jpg" afterPath="$PROJECT_DIR$/img/galeria/original/02_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/03_01.jpg" afterPath="$PROJECT_DIR$/img/03_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/galeria/original/03_1.jpg" afterPath="$PROJECT_DIR$/img/galeria/original/03_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/04_01.jpg" afterPath="$PROJECT_DIR$/img/04_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/galeria/original/04_1.jpg" afterPath="$PROJECT_DIR$/img/galeria/original/04_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multimidia.html" afterPath="$PROJECT_DIR$/multimidia.html" />
     </list>
     <ignored path="Radiador-Splash.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multimidia.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="multimidia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multimidia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="52" column="114" selection-start-line="52" selection-start-column="114" selection-end-line="52" selection-end-column="114" />
+            <state vertical-scroll-proportion="0.61851335">
+              <caret line="125" column="84" selection-start-line="125" selection-start-column="84" selection-end-line="125" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -86,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adm.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adm.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38148668">
+            <state vertical-scroll-proportion="-10.461538">
               <caret line="151" column="114" selection-start-line="151" selection-start-column="114" selection-end-line="151" selection-end-column="114" />
               <folding />
             </state>
@@ -131,10 +143,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sobre.html" />
         <option value="$PROJECT_DIR$/agenda.php" />
-        <option value="$PROJECT_DIR$/multimidia.html" />
         <option value="$PROJECT_DIR$/discografia.html" />
         <option value="$PROJECT_DIR$/contato.html" />
         <option value="$PROJECT_DIR$/adm.php" />
+        <option value="$PROJECT_DIR$/multimidia.html" />
       </list>
     </option>
   </component>
@@ -463,14 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.115385">
-          <caret line="43" column="118" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="118" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sobre.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.384615">
@@ -486,14 +490,6 @@
           <folding>
             <marker date="1441472579725" expanded="true" signature="1869:1918" placeholder="SELECT * FRO..agenda..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multimidia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="52" column="114" selection-start-line="52" selection-start-column="114" selection-end-line="52" selection-end-column="114" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,8 +511,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38148668">
+        <state vertical-scroll-proportion="-10.461538">
           <caret line="151" column="114" selection-start-line="151" selection-start-column="114" selection-end-line="151" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.115385">
+          <caret line="43" column="118" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61851335">
+          <caret line="125" column="84" selection-start-line="125" selection-start-column="84" selection-end-line="125" selection-end-column="84" />
           <folding />
         </state>
       </provider>
